@@ -1,7 +1,7 @@
 {
-  "name": "charactermaker",
+  "name": "domomaker",
   "version": "1.0.0",
-  "description": "A D&D Character creator using Node.js, Mongo and Redis",
+  "description": "A Simple Login Example using Node.js, Mongo and Redis",
   "main": "./server/app.js",
   "scripts": {
     "webpack": "webpack",
@@ -18,7 +18,7 @@
     "Redis",
     "Login"
   ],
-  "author": "Freya Emerson",
+  "author": "Cody Van De Mark / Austin Willoughby",
   "license": "UNLICENSED",
   "devDependencies": {
     "@babel/core": "^7.26.0",
@@ -50,10 +50,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ziatical/project-2.git"
+    "url": "git+https://github.com/Ziatical/DomoMaker-A-Start.git"
   },
   "bugs": {
-    "url": "https://github.com/Ziatical/project-2/issues"
+    "url": "https://github.com/Ziatical/DomoMaker-A-Start/issues"
   },
-  "homepage": "https://github.com/Ziatical/project-2#readme"
+  "homepage": "https://github.com/Ziatical/DomoMaker-A-Start#readme"
 }
